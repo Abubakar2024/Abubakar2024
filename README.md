@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abubakar2024
 - 👀 I’m interested in web development, data analytics and management of built environment with BIM and CIM technology
-- 🌱 I’m currently learning front and backend development as well microsoft power-up applications
+- 🌱 I’m currently learning frontend and backend development as well microsoft power-up applications
 - 💞️ I’m looking to collaborate on creating responsive city built environment in real time for infrastructure service use management
 - 📫 You can reach me on linkedin at https://www.linkedin.com/in/engrabubakar/ or through email at abulawal_00@yahoo.com
 
